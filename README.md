@@ -10,7 +10,7 @@ You can contribute to this repo if you want.
 
 ## Predict data using a linear model
 
-Use ~~linear regression~~ a single layer perceptron. This will be a simple function that multiplies your inputs by a weight matrix and outputs that.
+Use ~~linear regression~~ a single layer perceptron with no activation function. This will be a simple function that multiplies your inputs by a weight matrix and outputs that.
 
 # Regularising a neural network
 
@@ -27,4 +27,7 @@ Do you want the most efficient net in terms of parameters? Then use ENet, it is 
 Andrej Karpathy has a review of some architectures [here](http://cs231n.github.io/convolutional-networks/#overview)
 
 [Here](https://culurciello.github.io/tech/2016/06/04/nets.html) there is a comparison between the architectures Karpathy mentions, and more. The author also has a more recent paper [here](https://arxiv.org/pdf/1605.07678.pdf)
+
+# There are so many activation functions! Which one do I use?
+ReLUs is what cool kids are all about these days. If you feel adventurous, try Leaky or Parametric ReLUs or ELUs.
 
