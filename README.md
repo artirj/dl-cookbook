@@ -21,6 +21,7 @@ Long answer: read [this](http://sebastianruder.com/optimizing-gradient-descent/)
 
 # I cannot sleep because I don't know what is the best CNN architecture for image recognition
 Do you want the best at any cost? Then use Inception V4
+
 Do you want the most efficient net in terms of parameters? Then use ENet, it is 6 times as efficient as Inception
 
 Andrej Karpathy has a review of some architectures [here](http://cs231n.github.io/convolutional-networks/#overview)
