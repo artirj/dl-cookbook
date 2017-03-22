@@ -25,5 +25,6 @@ Do you want the best at any cost? Then use Inception V4
 Do you want the most efficient net in terms of parameters? Then use ENet, it is 6 times as efficient as Inception
 
 Andrej Karpathy has a review of some architectures [here](http://cs231n.github.io/convolutional-networks/#overview)
+
 [Here](https://culurciello.github.io/tech/2016/06/04/nets.html) there is a comparison between the architectures Karpathy mentions, and more. The author also has a more recent paper [here](https://arxiv.org/pdf/1605.07678.pdf)
 
